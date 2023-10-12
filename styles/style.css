@@ -1,0 +1,15 @@
+html {
+    font-family: "family=Oswald:wght@400;500&display=swap", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  }
+  html {
+    background-color: #7daec8;
+    all: center;
+  }
+  h1,p,ul,h2 {color: rgb(4, 34, 80);
+
+  margin: 0;
+  padding: 10px 0;
+  text-align: center;
+  }
+
+  /*<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">*/
